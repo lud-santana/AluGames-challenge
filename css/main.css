@@ -53,18 +53,18 @@
 }
 
 .page-title__emphasis {
-    color: #505EFF;
+    color: #509EFF;
 }
 
 .dashboard {
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: rgba(255, 255, 255, 0.129);
 
     border-radius: 2rem;
     border-width: 1px;
     border-style: solid;
     border-color: #00F4BF;
 
-    padding: 3rem;
+    padding: 4rem;
     width: 100%;
 }
 
@@ -83,9 +83,9 @@
 }
 
 .dashboard__item__img {
-    box-shadow: 0px 0px 24px 8px rgba(24, 118, 232, 0.25);
+    box-shadow: 0px 0px 24px 8px rgba(24, 118, 232, 0.389);
 
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
 }
 
 .dashboard__item__img--rented {
@@ -101,7 +101,7 @@
     position: absolute;
     top: 0;
     
-    background-color: rgba(1, 8, 14, 0.4);
+    background-color: rgba(2, 15, 26, 0.249);
 }
 
 .dashboard__item__name {
@@ -123,11 +123,11 @@
 
     border-radius: 1rem;
 
-    background-color: #1875E8;
+    background-color: rgba(13, 152, 221, 0.74);
 }
 
 .dashboard__item__button--return {
-    background-color: #01080E;
+    background-color: #01080e94;
 }
 
 .hachuras {
